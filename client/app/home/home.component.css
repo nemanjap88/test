@@ -1,0 +1,22 @@
+.al-main {
+    margin-left: 180px;
+    padding: 66px 0 34px 0;
+    min-height: 500px;
+    position: relative;
+}
+
+.al-content {
+    padding: 8px 32px 8px 40px;
+}
+
+.al-footer {
+  height: 34px;
+  padding: 0 18px 0 200px;
+  width: 100%;
+  position: absolute;
+  display: block;
+  bottom: 0;
+  font-size: 13px;
+  color: #ffffff;
+  transition: padding-left 0.5s ease;
+}
